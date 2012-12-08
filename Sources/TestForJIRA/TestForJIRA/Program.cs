@@ -9,7 +9,7 @@ namespace TestForJIRA
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Version 1.0.0.3 TFJ-1");
+            Console.WriteLine("Version 1.0.0.3 TFJ-2");
         }
     }
 }
